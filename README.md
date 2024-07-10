@@ -7,4 +7,4 @@ The code presented in this repository was designed to be run using a .csv or .xl
 
 More details regarding the specific implementation of the method are provided along the code. 
 
-The authors do not intend to maintain this code. 
+The authors do not intend to maintain this code updated in the future.
